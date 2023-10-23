@@ -1,0 +1,70 @@
+.ll{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    height: auto;
+    width: auto;
+}
+.hh{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#kk{
+background-color: brown;
+height: 250px;
+    width: 250px;
+}
+#kk:hover{
+    background-color: chartreuse;
+    padding: 5%;
+}
+#cc{
+    background-color: blueviolet;
+    height: 250px;
+    width: 250px;
+}
+#cc:hover{ 
+    background-color:rgb(16, 50, 124);
+    padding: 5%;
+}
+
+.ee{
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ background-color: tomato;
+ height: 678px;
+ width: 678px;
+
+}
+#tes{
+    background-color: rgb(0, 0, 0);
+    color: blanchedalmond;
+    height: 300px;
+    width: 300px;
+}
+
+#comoestas{
+    background-color: blue;
+    color: azure;
+    height: 300px;
+    width: 300px;
+}
+#tes:hover{
+    background-color: blueviolet;
+    padding: 5%;
+
+}
+#comoestas:hover{
+    background-color: yellowgreen;
+    padding: 5%;
+}
+#buf{
+    height: 300px;
+    width: 150px;
+}
+#buf:hover{
+    padding: 5%;
+}
